@@ -6,7 +6,7 @@ module.exports = function( config, userDataPath ) {
 
     const get_user = require('../helpers/get_user')(userDataPath)
     const update_user = require('../helpers/update_user')(userDataPath)
-    const fusionauth = require("../SWK_Fusionauth_Handler/index")(config)
+    const fusionauth = require("../Fusionauth_Handler/index")(config)
 
 
 
