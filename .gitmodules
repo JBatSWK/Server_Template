@@ -1,0 +1,3 @@
+[submodule "src/Fusionauth_Handler"]
+	path = src/Fusionauth_Handler
+	url = git@github.com:JBatSWK/Fusionauth_Handler.git
